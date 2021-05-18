@@ -11,7 +11,7 @@ def makeItem(query, roll_result, roll_sum):
         roll_result: separated results of dice(s)
         roll_sum: sum of roll
     '''
-    icon = "CCC09FC5-7F21-4A11-9199-5D2B42CA0D19.png"
+    icon = "icon.png"
     item = {
         'uid': roll_result,
         'title': query,

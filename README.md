@@ -1,4 +1,6 @@
-# dice-alfredworkflow ![dice](./244-2441699_d20-clip-art-png-download.png){:class="img-responsive"}
+# dice-alfredworkflow
+
+<p align='center'><img src="./pngegg.png" width="144">
 
 A workflow to roll a dice/dices for fun.
 
